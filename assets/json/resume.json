@@ -94,20 +94,7 @@
       "summary": "Recognized for excellence in scientific research."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2023-05-01",
-      "issuer": "Coursera",
-      "url": "https://coursera.org/ml"
-    },
-    {
-      "name": "Cloud Computing Foundations",
-      "date": "2023-08-01",
-      "issuer": "Google Cloud",
-      "url": "https://googlecloudcertifications.com"
-    }
-  ],
+
   "publications": [
     {
       "name": "THREAD: Thinking Deeper with Recursive Spawning",
@@ -156,13 +143,7 @@
       "keywords": ["Machine Learning", "NLP", "LLMs", "Vector Databases"]
     }
   ],
-  "references": [
-    {
-      "name": "Professor Jane Smith",
-      "icon": "",
-      "reference": "Nathaniel has consistently demonstrated exceptional technical and leadership skills."
-    }
-  ],
+
   "projects": [
     {
       "name": "ARK (Automated Resource Knowledge Base)",

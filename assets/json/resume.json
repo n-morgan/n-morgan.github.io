@@ -98,7 +98,7 @@
   "publications": [
     {
       "name": "THREAD: Thinking Deeper with Recursive Spawning",
-      "publisher": "arXiv",
+      "publisher": "arXiv:2405.17402",
       "releaseDate": "2024-05-01",
       "url": "https://arxiv.org/abs/2405.17402",
       "summary": "Created evaluation benchmark."

@@ -4,5 +4,5 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - n-morgan/ARK
   - SGIARK/ARK2.0/
+  - n-morgan/DDSRHopfield

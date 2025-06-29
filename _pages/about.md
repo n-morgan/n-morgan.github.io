@@ -16,8 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Nathaniel Morgan is a Computer Science and Artificial Intelligence student at MIT, driven by a passion for problem-solving, innovation, and creating meaningful connections between technology and people. As an undergraduate researcher at MIT CSAIL under the SLS Group, he is currently researching Hopfield Networks to augment LLM capabilities with human centric memory models. He combines his technical expertise with a strong interest in business and leadership to inspire and empower teams.
+Nathaniel Morgan is a Computer Science and Artificial Intelligence student at MIT (Class of 2027) focused on building intelligent systems that bridge research and real-world deployment. He is currently an undergraduate researcher at MIT CSAIL in the Spoken Language Systems Group, where he explores retrieval-augmented generation and latent model editing techniques to improve long-term memory in large language models.
 
-Nathaniel is the founder of [Uplift.co](https://www.communityuplift.co/), a registered 501(c)(3) wellness organization, where he organized four in-person events and launched over eight wellness campaigns. He also serves on the COOP Board of Directors, contributing to the organization’s growth by generating cost- and time-efficient solutions to complex problems. Outside of his leadership roles and research, Nathaniel is passionate about hobbies such as longboarding, soccer, violin, piano, photography, and videography, which have enriched his ability to think critically and creatively.
+In industry, Nathaniel has worked at startups including SubconsciousAI, BitEnergy.AI, and Salieri.AI, contributing to projects involving LLM inference engines, DevOps infrastructure, and AI research. He also leads ARK, an open-source platform for modular LLM applications and scalable inference. His work spans serverless deployment, container orchestration, and toolchain integration for applied machine learning systems.
 
+Nathaniel is the founder of Uplift.co, a 501(c)(3) nonprofit dedicated to youth mental wellness. He has organized four in-person events and launched over eight digital wellness campaigns. He also serves on the Board of Directors of the Harvard-MIT COOP, where he helps develop connect the COOP to its comunity as Co-Chair of the Brand Experience comittee.
+
+Outside of his technical and leadership work, Nathaniel enjoys longboarding, soccer, violin, piano, photography, and videography as creative outlets that inform his approach to design and problem-solving.
+
+You can reach him at:
 nmorgan [at] mit [dot] edu

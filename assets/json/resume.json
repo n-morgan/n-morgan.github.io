@@ -29,10 +29,10 @@
       "url": "",
       "startDate": "2025-05",
       "endDate": "Present",
-      [cite_start]"summary": "Benchmarked SGThread system and worked to deploy novel inference engine and RL trained model to serverless platform[cite: 4].",
+      "summary": "Benchmarked SGThread system and worked to deploy novel inference engine and RL trained model to serverless platform.",
       "highlights": [
-        [cite_start]"Containerized and modified fork of SGLang, facilitating rapid deployment of TIM reasoning model[cite: 4].",
-        [cite_start]"Created python interface for Google DataCommons benchmarking of modified inference engine and TIM model through the creation of constrained decoding specifications and a new DC LLM tool[cite: 4]."
+        "Containerized and modified fork of SGLang, facilitating rapid deployment of TIM reasoning model.",
+        "Created python interface for Google DataCommons benchmarking of modified inference engine and TIM model through the creation of constrained decoding specifications and a new DC LLM tool."
       ]
     },
     {
@@ -41,12 +41,12 @@
       "url": "",
       "startDate": "2025-01",
       "endDate": "2025-05",
-      [cite_start]"summary": "Developed code for FP8 E4M3 multiplication on FPGA in C++ with Vitis-AI HLS to integrate transformer architecture with efficient floating point arithmetic operations[cite: 5].",
+      "summary": "Developed code for FP8 E4M3 multiplication on FPGA in C++ with Vitis-AI HLS to integrate transformer architecture with efficient floating point arithmetic operations.",
       "highlights": [
-        [cite_start]"Designed host interface for multiplication between NxD weight matrix and DxM input matrix[cite: 5].",
-        [cite_start]"Implemented FP8 multiplication and addition through fused multiply add in C++[cite: 5].",
-        [cite_start]"Optimized matrix multiplication kernel through Vitis High-Level Synthesis best design practices[cite: 5].",
-        [cite_start]"Conducted software and hardware emulation of FPGA design[cite: 5]."
+        "Designed host interface for multiplication between NxD weight matrix and DxM input matrix.",
+        "Implemented FP8 multiplication and addition through fused multiply add in C++.",
+        "Optimized matrix multiplication kernel through Vitis High-Level Synthesis best design practices.",
+        "Conducted software and hardware emulation of FPGA design."
       ]
     },
     {
@@ -55,12 +55,12 @@
       "url": "",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      [cite_start]"summary": "Developed a server-less SaaS deployment with an autoscaling Kubernetes cluster hosted on GCP to facilitate structuring LLM output into parsable JSON based on business text document stores[cite: 6].",
+      "summary": "Developed a server-less SaaS deployment with an autoscaling Kubernetes cluster hosted on GCP to facilitate structuring LLM output into parsable JSON based on business text document stores.",
       "highlights": [
-        [cite_start]"Utilized Node.js to create a web-hook API, enabling communication with a Python \"child process\" via inter-process communication (IPC)[cite: 6].",
-        [cite_start]"Developed 3 containerized micro-services for scalability and created network for intra-container communication[cite: 7].",
-        [cite_start]"Restricted LLM output using Context-Free Grammars in GBNF format and JSON to ensure valid generation (token generation constraint)[cite: 7].",
-        [cite_start]"Built and optimized an autoscaling Kubernetes cluster with MySQL data store on Google Cloud Platform, with containers stored in Google Artifact Registry and configured using Helm Chart for long-term sustainability[cite: 7]."
+        "Utilized Node.js to create a web-hook API, enabling communication with a Python \"child process\" via inter-process communication (IPC).",
+        "Developed 3 containerized micro-services for scalability and created network for intra-container communication.",
+        "Restricted LLM output using Context-Free Grammars in GBNF format and JSON to ensure valid generation (token generation constraint).",
+        "Built and optimized an autoscaling Kubernetes cluster with MySQL data store on Google Cloud Platform, with containers stored in Google Artifact Registry and configured using Helm Chart for long-term sustainability."
       ]
     }
   ],
@@ -72,10 +72,10 @@
       "url": "http://www.communityuplift.co",
       "startDate": "2019-05",
       "endDate": "2025-01",
-      [cite_start]"summary": "Organized first cohort and facilitated weekly meetings to grow the project to a peak of 30 members[cite: 16].",
+      "summary": "Organized first cohort and facilitated weekly meetings to grow the project to a peak of 30 members.",
       "highlights": [
-        [cite_start]"Assisted in the creation of 5 in person wellness events and 10 digital wellness campaigns[cite: 16].",
-        [cite_start]"Built components of brand including website, Instagram, and initial digital wellness campaigns for public awareness of organization[cite: 16]."
+        "Assisted in the creation of 5 in person wellness events and 10 digital wellness campaigns.",
+        "Built components of brand including website, Instagram, and initial digital wellness campaigns for public awareness of organization."
       ]
     }
   ],
@@ -90,12 +90,12 @@
       "endDate": "2027-05",
       "score": "4.5",
       "courses": [
-        [cite_start]"Deep Learning [cite: 2]",
-        [cite_start]"Mathematics for Computer Science [cite: 2]",
-        [cite_start]"Data Structures and Algorithms [cite: 2]",
-        [cite_start]"Linear Algebra [cite: 2]",
-        [cite_start]"Machine Learning [cite: 2]",
-        [cite_start]"Probability & Statistics [cite: 2]"
+        "Deep Learning",
+        "Mathematics for Computer Science",
+        "Data Structures and Algorithms",
+        "Linear Algebra",
+        "Machine Learning",
+        "Probability & Statistics"
       ]
     }
   ],
@@ -128,7 +128,7 @@
       "publisher": "NAACL 2025",
       "releaseDate": "2024-05",
       "url": "https://arxiv.org/abs/2405.17402",
-      "summary": "Phillip Schroeder, Nathaniel W. Morgan, Hongyin Luo, James R. Glass. [cite_start]THREAD, \"Thinking Deeper with Recursive Spawning\" [NAACL 2025] (arXiv preprint arXiv:2405.17402 2024) [cite: 13]"
+      "summary": "Phillip Schroeder, Nathaniel W. Morgan, Hongyin Luo, James R. Glass. THREAD, \"Thinking Deeper with Recursive Spawning\" [NAACL 2025] (arXiv preprint arXiv:2405.17402 2024)"
     }
   ],
   "skills": [
@@ -197,11 +197,11 @@
       "position": "Undergraduate Researcher",
       "startDate": "2025-01",
       "endDate": "Present",
-      [cite_start]"summary": "Leading research within the CSAIL Spoken Language Systems Group (SLS) at MIT, focusing on enhancing retriever performance in resource-augmented generation (RAG) systems through model editing[cite: 8].",
+      "summary": "Leading research within the CSAIL Spoken Language Systems Group (SLS) at MIT, focusing on enhancing retriever performance in resource-augmented generation (RAG) systems through model editing.",
       "highlights": [
-        [cite_start]"Benchmarked BERT-Large-Cased performance by generating a synthetic query-document set and extracting [CLS] token embeddings from a pretrained model using PyTorch[cite: 9].",
-        [cite_start]"Created vector database with FAISS Index and SQLite for efficient document storage and retrieval based on document embeddings[cite: 9].",
-        [cite_start]"Adapted MALMEN (ICLR 2025) to fit multi-class classification objective[cite: 9]."
+        "Benchmarked BERT-Large-Cased performance by generating a synthetic query-document set and extracting [CLS] token embeddings from a pretrained model using PyTorch.",
+        "Created vector database with FAISS Index and SQLite for efficient document storage and retrieval based on document embeddings.",
+        "Adapted MALMEN (ICLR 2025) to fit multi-class classification objective."
       ]
     },
     {
@@ -210,10 +210,10 @@
       "position": "Undergraduate Researcher",
       "startDate": "2024-09",
       "endDate": "2024-12",
-      [cite_start]"summary": "Lead research within the CSAIL Spoken Language Systems Group (SLS) at MIT into the utilization of Modern Continuous Hopfield Networks to model Memory for LLMs[cite: 9].",
+      "summary": "Lead research within the CSAIL Spoken Language Systems Group (SLS) at MIT into the utilization of Modern Continuous Hopfield Networks to model Memory for LLMs.",
       "highlights": [
-        "Constructed tensor-based data processing pipeline utilizing Kaggle sentence dataset and tokenization via. [cite_start]Mistral tokenizer[cite: 10].",
-        [cite_start]"Trained network with PyTorch and evaluated results with matplotlib[cite: 10]."
+        "Constructed tensor-based data processing pipeline utilizing Kaggle sentence dataset and tokenization via. Mistral tokenizer.",
+        "Trained network with PyTorch and evaluated results with matplotlib."
       ]
     },
     {
@@ -222,23 +222,23 @@
       "position": "Undergraduate Researcher",
       "startDate": "2024-01",
       "endDate": "2024-05",
-      [cite_start]"summary": "Conducted research within the CSAIL Spoken Language Systems Group (SLS) at MIT for the creation of a benchmark for LLM natural language embedded program generation[cite: 10].",
+      "summary": "Conducted research within the CSAIL Spoken Language Systems Group (SLS) at MIT for the creation of a benchmark for LLM natural language embedded program generation.",
       "highlights": [
-        [cite_start]"Produced >50 ground truth Python programs for synthetic data generation to create evaluation dataset[cite: 11].",
-        [cite_start]"Created API calls for aggregate data collection and processing from Google Data Commons[cite: 12]."
+        "Produced >50 ground truth Python programs for synthetic data generation to create evaluation dataset.",
+        "Created API calls for aggregate data collection and processing from Google Data Commons."
       ]
     }
   ],
   "projects": [
     {
       "name": "ARK (Automated Resource Knowledge Base)",
-      [cite_start]"summary": "Leading a team of 6 across MIT, GT and UIC to create a community LLM app store and modular personalized agentic assistant development platform[cite: 14].",
+      "summary": "Leading a team of 6 across MIT, GT and UIC to create a community LLM app store and modular personalized agentic assistant development platform.",
       "highlights": [
-        [cite_start]"Configured LLM Inference with Hugging-Face TGI and Qwen-2.5 weights hosted on HuggingFace Hub[cite: 14].",
-        [cite_start]"Created 'base_module interface for agentic tool calling and inference engine abstraction layer[cite: 14].",
-        [cite_start]"Organized project outline including \"GitHub Org.\", task list, weekly meetings, and various repositories for maintaining current and future contribution consistency as project scales[cite: 14].",
-        [cite_start]"Secured $5000 grant from MIT SIPB for development server build[cite: 14].",
-        [cite_start]"Built and set up headless dev server including installing CUDA kernel, configuring Linux distro, adding user SSH keys, and configuring user permissions[cite: 15]."
+        "Configured LLM Inference with Hugging-Face TGI and Qwen-2.5 weights hosted on HuggingFace Hub.",
+        "Created 'base_module interface for agentic tool calling and inference engine abstraction layer.",
+        "Organized project outline including \"GitHub Org.\", task list, weekly meetings, and various repositories for maintaining current and future contribution consistency as project scales.",
+        "Secured $5000 grant from MIT SIPB for development server build.",
+        "Built and set up headless dev server including installing CUDA kernel, configuring Linux distro, adding user SSH keys, and configuring user permissions."
       ],
       "startDate": "2023-04",
       "endDate": "Present",

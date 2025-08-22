@@ -3,56 +3,81 @@
     "name": "Nathaniel Morgan",
     "label": "Computer Science and Engineering Student",
     "image": "",
-    "url": "https://linktr.ee/nmorgan",
+    "email": "nmorgan@csail.mit.edu",
+    "phone": "864-324-8208",
+    "url": "https://n-morgan.github.io",
     "summary": "Undergraduate student at MIT with expertise in computer science, DevOps, and NLP AI engineering. Focused on LLM research and innovative tech solutions.",
     "location": {
       "address": "Cambridge, MA",
-      "postalCode": "02139",
+      "postalCode": "",
       "city": "Cambridge",
       "countryCode": "US",
-      "region": "Massachusetts"
+      "region": "MA"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "nmorgan",
-        "url": "https://github.com/n-morgan"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "NathanielMorgan",
-        "url": "https://www.linkedin.com/in/nmorgan27"
+        "username": "n-morgan",
+        "url": "https://n-morgan.github.io"
       }
     ]
   },
   "work": [
     {
+      "name": "Subconscious.AI",
+      "position": "AI Research Engineer",
+      "url": "",
+      "startDate": "2025-05-01",
+      "endDate": "Present",
+      "summary": "Benchmarked SGThread system and worked to deploy novel inference engine and RL trained model to serverless platform.",
+      "highlights": [
+        "Benchmarked SGThread system and deployed a novel inference engine and RL-trained TIM model to a serverless platform",
+        "Containerized and modified fork of SGLang, implementing custom stop conditions and refining token handling and hidden state propagation for stable, high-quality reasoning",
+        "Created Python interface for Google DataCommons and AIME benchmarking of the modified inference engine and TIM model through constrained decoding pipelines",
+        "Edited and contributed to the associated research paper, ensuring accurate presentation of methods and results"
+      ]
+    },
+    {
+      "name": "BitEnergyAI",
+      "position": "Backend/Kernel Developer",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "summary": "Developed code for FP8 E4M3 multiplication on FPGA in C++ with Vitis-AI HLS to integrate transformer architecture with efficient floating point arithmetic operations.",
+      "highlights": [
+        "Designed host interface for multiplication between NxD weight matrix and DxM input matrix.",
+        "Implemented FP8 multiplication and addition through fused multiply add in C++.",
+        "Optimized matrix multiplication kernel through Vitis High-Level Synthesis best design practices.",
+        "Conducted software and hardware emulation of FPGA design."
+      ]
+    },
+    {
       "name": "SALIERI.AI",
-      "position": "Full-stack / NLP AI Engineer Intern",
+      "position": "Full-stack/NLP AI Engineer Intern",
       "url": "",
       "startDate": "2024-05-01",
       "endDate": "2024-08-31",
-      "summary": "Developed server-less SaaS deployment for structuring LLM output into parsable JSON.",
+      "summary": "Developed a server-less SaaS deployment with an autoscaling Kubernetes cluster hosted on GCP to facilitate structuring LLM output into parsable JSON based on business text document stores.",
       "highlights": [
-        "Created webhook API with Node.js for inter-process communication with Python.",
-        "Developed containerized microservices with Kubernetes for scalability.",
-        "Implemented Context-Free Grammars for token generation constraints.",
-        "Built Kubernetes cluster with MySQL data store on Google Cloud Platform."
+        "Utilized Node.js to create a web-hook API, enabling communication with a Python child process via inter-process communication (IPC).",
+        "Developed 3 containerized micro-services for scalability and created network for intra-container communication.",
+        "Restricted LLM output using Context-Free Grammars in GBNF format and JSON to ensure valid generation (token generation constraint).",
+        "Built and optimized an autoscaling Kubernetes cluster with MySQL data store on Google Cloud Platform, with containers stored in Google Artifact Registry and configured using Helm Chart for long-term sustainability."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Uplift.co",
-      "location": "Cambridge, MA",
+      "organization": "Uplift.co 501(c)(3)",
+      "location": "",
       "position": "Founder",
-      "url": "https://www.communityuplift.co",
+      "url": "http://www.communityuplift.co",
       "startDate": "2019-05-01",
-      "endDate": "",
-      "summary": "Launched a non-profit to combat teen mental health issues through community events and campaigns.",
+      "endDate": "2025-01-01",
+      "summary": "Organized first cohort and facilitated weekly meetings to grow the project to a peak of 30 members.",
       "highlights": [
-        "Organized the first cohort and weekly meetings to foster collaboration.",
-        "Developed branding, website, and digital wellness campaigns."
+        "Assisted in the creation of 5 in person wellness events and 10 digital wellness campaigns.",
+        "Built components of brand including website, Instagram, and initial digital wellness campaigns for public awareness of organization."
       ]
     }
   ],
@@ -60,99 +85,98 @@
     {
       "institution": "Massachusetts Institute of Technology (MIT)",
       "location": "Cambridge, MA",
-      "url": "https://web.mit.edu/",
-      "area": "Computer Science and Engineering",
-      "studyType": "Bachelor of Science",
+      "url": "",
+      "area": "Major 6-3 Computer Science and Engineering",
+      "studyType": "Candidate for Bachelor of Science",
       "startDate": "2023-09-01",
       "endDate": "2027-05-01",
       "score": "4.5",
       "courses": [
-        "Fundamentals of Programming",
-        "Computational Thinking and Data Science",
+        "Deep Learning",
         "Mathematics for Computer Science",
         "Data Structures and Algorithms",
         "Linear Algebra",
-        "Machine Learning"
+        "Machine Learning",
+        "Probability & Statistics"
       ]
     }
   ],
   "awards": [
     {
-      "title": "SIPB Keyholder",
+      "title": "MIT Student Information and Processing Board (SIPB) (Keyholder)",
       "date": "2023-12-01",
-      "awarder": "MIT Student Information and Processing Board",
+      "awarder": "MIT",
       "url": "",
-      "summary": "Awarded for significant contributions to the MIT SIPB."
+      "summary": ""
     },
     {
-      "title": "Finalist",
-      "date": "2021-10-01",
-      "awarder": "International Science and Engineering Fair",
+      "title": "Harvard x MIT CO-OP (Student Board Member)",
+      "date": "2024-08-01",
+      "awarder": "Harvard University & MIT",
       "url": "",
-      "summary": "Recognized for excellence in scientific research."
+      "summary": ""
+    },
+    {
+      "title": "International Science and Engineering Fair (Finalist)",
+      "date": "2021-10-01",
+      "awarder": "Society for Science",
+      "url": "",
+      "summary": ""
     }
   ],
-
   "publications": [
     {
       "name": "THREAD: Thinking Deeper with Recursive Spawning",
-      "publisher": "arXiv:2405.17402",
+      "publisher": "NAACL 2025",
       "releaseDate": "2024-05-01",
       "url": "https://arxiv.org/abs/2405.17402",
-      "summary": "Created evaluation benchmark."
+      "summary": "Phillip Schroeder, Nathaniel W. Morgan, Hongyin Luo, James R. Glass."
     }
   ],
   "skills": [
     {
       "name": "Computer Science",
-      "level": "Advanced",
+      "level": "",
       "icon": "",
       "keywords": ["Python", "JavaScript", "Bash", "SQLite"]
     },
     {
       "name": "DevOps",
-      "level": "Intermediate",
+      "level": "",
       "icon": "",
       "keywords": ["Google Cloud Platform", "Kubernetes", "Docker", "Kubectl", "Minikube", "Tmux", "Vim"]
     },
     {
+      "name": "Software",
+      "level": "",
+      "icon": "",
+      "keywords": ["Google G-suite", "Microsoft 365 Office", "Adobe Creative Cloud"]
+    },
+    {
       "name": "Languages",
-      "level": "Native Speaker",
+      "level": "",
       "icon": "",
       "keywords": ["English", "Spanish"]
     }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    {"language": "English", "fluency": "", "icon": ""},
+    {"language": "Spanish", "fluency": "", "icon": ""}
   ],
-  "interests": [
-    {
-      "name": "Artificial Intelligence",
-      "icon": "",
-      "keywords": ["Machine Learning", "NLP", "LLMs", "Vector Databases"]
-    }
-  ],
-
+  "interests": [],
   "projects": [
     {
       "name": "ARK (Automated Resource Knowledge Base)",
-      "summary": "Simulated data retrieval and storage of human brain processes.",
+      "summary": "Leading a team of 6 across MIT, GT and UIC to create a community LLM app store and modular personalized agentic assistant development platform.",
       "highlights": [
-        "Configured Local LLM Inference with Llama CPP and Mistral 7b weights.",
-        "Built Vector DB for information storage and retrieval."
+        "Configured LLM Inference with Hugging-Face TGI and Qwen-2.5 weights hosted on HuggingFace Hub.",
+        "Created base_module interface for agentic tool calling and inference engine abstraction layer.",
+        "Organized project outline including GitHub Org., task list, weekly meetings, and various repositories for maintaining current and future contribution consistency as project scales.",
+        "Secured $5000 grant from MIT SIPB for development server build.",
+        "Built and set up headless dev server including installing CUDA kernel, configuring Linux distro, adding user SSH keys, and configuring user permissions."
       ],
       "startDate": "2023-04-01",
-      "endDate": "",
-      "url": ""
+      "endDate": ""
     }
   ]
 }

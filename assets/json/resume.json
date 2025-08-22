@@ -35,7 +35,7 @@
   "Containerized and modified fork of SGLang, implementing custom stop conditions and refining token handling and hidden state propagation for stable, high-quality reasoning",
   "Created Python interface for Google DataCommons and AIME benchmarking of the modified inference engine and TIM model through constrained decoding pipelines",
   "Edited and contributed to the associated research paper, ensuring accurate presentation of methods and results"
-]
+],
     },
     {
       "name": "BitEnergyAI",
